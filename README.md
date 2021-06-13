@@ -49,6 +49,9 @@ Telegram Bot Repo Capable of fetching the following Info via Anilist API inspire
  /getgenres - Get list of available Genres
 ```
 
+##How To Host
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/HuntingBots/Search-Anime-Bot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+
 
 ## Owner/Sudo Cmds
 ```
